@@ -1,0 +1,17 @@
+* {
+    font-style: arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+li, p {
+    font-size: 30px;
+}
